@@ -1,0 +1,6 @@
+{
+  "name": "Executable File Selector",
+  "description": "Select executable files and inspect metadata to prepare configuration state for automation engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
